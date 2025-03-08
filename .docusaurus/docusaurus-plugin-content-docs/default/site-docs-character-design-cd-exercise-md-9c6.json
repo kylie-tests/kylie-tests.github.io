@@ -1,0 +1,26 @@
+{
+  "id": "character-design/cd-exercise",
+  "title": "Exercise",
+  "description": "For a strong portfolio piece, you want to be able to demonstrate that you can:",
+  "source": "@site/docs/character-design/cd-exercise.md",
+  "sourceDirName": "character-design",
+  "slug": "/character-design/cd-exercise",
+  "permalink": "/character-design/cd-exercise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lesson",
+    "permalink": "/character-design/cd-lesson"
+  },
+  "next": {
+    "title": "Discussion questions",
+    "permalink": "/character-design/cd-questions"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "character-design/cd-lesson",
+  "title": "Lesson",
+  "description": "This is a good place to start if character creation is brand new to you: Pixelles alumna and Ubisoft writer Linda Nguyen created a PowerPoint presentation about character creation and archetypes. You can find the presentation here.",
+  "source": "@site/docs/character-design/cd-lesson.md",
+  "sourceDirName": "character-design",
+  "slug": "/character-design/cd-lesson",
+  "permalink": "/character-design/cd-lesson",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro to character design",
+    "permalink": "/character-design/character-design-intro"
+  },
+  "next": {
+    "title": "Exercise",
+    "permalink": "/character-design/cd-exercise"
+  }
+}
